@@ -1,0 +1,6 @@
+E:\dev\AddCustomer\CalendarDataGridView\bin\Release\CalendarDataGridView.dll
+E:\dev\AddCustomer\CalendarDataGridView\bin\Release\CalendarDataGridView.pdb
+E:\dev\AddCustomer\CalendarDataGridView\obj\Release\CalendarDataGridView.csprojAssemblyReference.cache
+E:\dev\AddCustomer\CalendarDataGridView\obj\Release\CalendarDataGridView.csproj.CoreCompileInputs.cache
+E:\dev\AddCustomer\CalendarDataGridView\obj\Release\CalendarDataGridView.dll
+E:\dev\AddCustomer\CalendarDataGridView\obj\Release\CalendarDataGridView.pdb
